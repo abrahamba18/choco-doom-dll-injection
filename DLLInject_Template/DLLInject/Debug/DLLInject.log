@@ -1,0 +1,5 @@
+﻿  CommandWindow.cpp
+C:\Users\IEUser\Desktop\DLLInject_Template\DLLInject_Template\DLLInject\CommandWindow.h(129,43): warning C4838: conversion from 'unsigned char' to 'char' requires a narrowing conversion
+  CommandWindow.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  CommandWindow.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DLLInject.vcxproj -> C:\Users\IEUser\Desktop\DLLInject_Template\DLLInject_Template\Debug\DLLInject.dll
